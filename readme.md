@@ -1,8 +1,8 @@
 # usage:
 
-## the integration will run on itself while initially loading a CodeRunner page and on every window resizing.
+### When entering a pdf viewer page in HUJI Moodle, a red and ugly button label "Popup" will apear next to the resource name.
 
-## there's a blue button next to the "Back" button to revert to default sizes
+### click it and you should see a new window with the pdf but full=sized.
 
 ## for adding the extension to your chrome' see [google chrome developer documentation](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world?hl=en#load-unpacked)
 
