@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Moodle PDF popup",
+  "version": "1.0.0",
+  "description": "A badly designed DOM manipulator for badly designed pdf viewers",
+  "content_scripts": [
+    {
+      "js": ["scripts/pdfPopup.js"],
+      "matches": ["https://moodle.huji.ac.il/2024-25/mod/resource/view.php*"]
+    }
+  ]
+}
